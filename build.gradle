@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'de.tammo'
+group 'de.ibkyt'
 version '1.0'
 
 sourceCompatibility = 1.8
@@ -32,7 +32,7 @@ repositories {
 
 ext {
     //Define one of the supported mc versions
-    mcVersion = '1.13.2'
+    mcVersion = '1.8.8'
 }
 
 dependencies {
